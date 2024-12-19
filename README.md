@@ -14,6 +14,8 @@
 <strong>Stable Diffusion</strong> — это продвинутая генеративная модель, основанная на диффузионных процессах, разработанная для создания высококачественных изображений из текстовых описаний. Эта модель сочетает передовые подходы вероятностного моделирования, глубинного обучения и латентных представлений, что позволяет эффективно генерировать визуально реалистичный контент с высокой степенью гибкости и детализации.
 
 # Demo
-<strong>Prompt №1</strong>:
-<strong>Prompt №2</strong>:
-<strong>Prompt №3</strong>:
+<strong>Prompt №1</strong>:"A futuristic city in the clouds where houses are made of crystals and glowing plants, and the sky is painted in shades of pink and purple. In the center of the city, a massive waterfall cascades from the heavens, and winged creatures resembling dragons stroll through the streets. In the distance, floating islands with dense forests and waterfalls can be seen."
+
+<strong>Prompt №2</strong>:"An underwater world with bioluminescent creatures, where corals emit a soft glow and fish float in the water like birds in the sky. In the depths of the ocean, ancient ruins covered in seaweed and inhabited by giant squids can be found. At the heart of this world lies an underwater volcano, erupting bubbles and glowing particles."
+
+<strong>Prompt №3</strong>:"An abandoned amusement park where nature has taken over, and trees wrap around carousels, and flowers grow on roller coasters. The park features old rides covered in moss and vines, as well as deserted kiosks with faded signs. At the center of the park, there is a large lake covered in lilies, where swans and ducks swim."
