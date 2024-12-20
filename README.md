@@ -20,13 +20,13 @@
     <th>Model</th>
     <th>Metric (CLIP)</th>
     <th>Mechanism</th>
-    <th>Img</th>
+    <th>Best Img</th>
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 2.1 Base</td>
-    <td>val</td>
+    <td>0.3972</td>
     <td>EulerAncestralDiscreteScheduler</td>
-    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (1).png" alt="Model A Image" width="200"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (2).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -40,9 +40,9 @@
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 2.1</td>
-    <td>val</td>
+    <td>0.3765</td>
     <td>EulerAncestralDiscreteScheduler</td>
-    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1/EulerAncestralDiscreteScheduler/загруженное (5).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -56,9 +56,9 @@
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 1.5</td>
-    <td>val</td>
+    <td>0.3868</td>
     <td>EulerAncestralDiscreteScheduler</td>
-    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable 1.5/EulerAncestralDiscreteScheduler/загруженное (17).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -72,9 +72,9 @@
   </tr>
   <tr>
     <td rowspan="3">Dreamlike Photoreal 2.0</td>
-    <td>val</td>
+    <td>0.3752</td>
     <td>EulerAncestralDiscreteScheduler</td>
-    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+    <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/EulerAncestralDiscreteScheduler/загруженное (11).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -88,9 +88,9 @@
   </tr>
   <tr>
     <td rowspan="3">OpenJourney v4</td>
-    <td>val</td>
+    <td>0.4055</td>
     <td>EulerAncestralDiscreteScheduler</td>
-    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+    <td><img src="images/prompt_1/OpenJourney v4/EulerAncestralDiscreteScheduler/загруженное (13).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -104,9 +104,9 @@
   </tr>
   <tr>
     <td>DALL-E 3</td>
-    <td>val</td>
+    <td>0.3807</td>
     <td>?</td>
-    <td><img src="path/to/model_d_image.png" alt="Model D Image" width="100"></td>
+    <td><img src="images/prompt_1/DALL-E 3/futuristic city_generated_image.png" alt="Model D Image" width="200"></td>
   </tr>
 </table>
 
