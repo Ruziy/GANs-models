@@ -112,5 +112,98 @@
 
 
 <strong>Prompt №2</strong>:"An underwater world with bioluminescent creatures, where corals emit a soft glow and fish float in the water like birds in the sky. In the depths of the ocean, ancient ruins covered in seaweed and inhabited by giant squids can be found. At the heart of this world lies an underwater volcano, erupting bubbles and glowing particles."
-
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Metric (CLIP)</th>
+    <th>Mechanism</th>
+    <th>Best Img</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1 Base</td>
+    <td>0.3347</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (23).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3370</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/загруженное (25).png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3425</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1 Base/DDIMScheduler/загруженное.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1</td>
+    <td>0.3311</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1/EulerAncestralDiscreteScheduler/загруженное.png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3464</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1/EulerDiscreteScheduler/Без названия.png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3263</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_2/Stable Diffusion 2.1/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 1.5</td>
+    <td>0.3290</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable 1.5/EulerAncestralDiscreteScheduler/Без названия (1).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3457</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Stable 1.5/EulerDiscreteScheduler/Без названия.png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.2976</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_2/Stable 1.5/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Dreamlike Photoreal 2.0</td>
+    <td>0.3297</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Dreamlike Photoreal 2.0/EulerAncestralDiscreteScheduler/Без названия (2).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3394</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_2/Dreamlike Photoreal 2.0/EulerDiscreteScheduler/Без названия (1).png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3280</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_2/Dreamlike Photoreal 2.0/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">OpenJourney v4</td>
+    <td>0.331</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_2/OpenJourney v4/EulerAncestralDiscreteScheduler/Без названия (3).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3272</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_2/OpenJourney v4/EulerDiscreteScheduler/Без названия.png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3178</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_2/OpenJourney v4/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>DALL-E 3</td>
+    <td>0.3288</td>
+    <td>?</td>
+    <td><img src="images/prompt_2/DALL-E 3/underwater_world_generated_image.png" alt="Model D Image" width="200"></td>
+  </tr>
+</table>
 <strong>Prompt №3</strong>:"An abandoned amusement park where nature has taken over, and trees wrap around carousels, and flowers grow on roller coasters. The park features old rides covered in moss and vines, as well as deserted kiosks with faded signs. At the center of the park, there is a large lake covered in lilies, where swans and ducks swim."
