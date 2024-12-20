@@ -15,6 +15,101 @@
 
 # Demo
 <strong>Prompt №1</strong>:"A futuristic city in the clouds where houses are made of crystals and glowing plants, and the sky is painted in shades of pink and purple. In the center of the city, a massive waterfall cascades from the heavens, and winged creatures resembling dragons stroll through the streets. In the distance, floating islands with dense forests and waterfalls can be seen."
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Metric (CLIP)</th>
+    <th>Mechanism</th>
+    <th>Img</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1 Base</td>
+    <td>val</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (1).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>DDIMScheduler</td>
+    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1</td>
+    <td>val</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>DDIMScheduler</td>
+    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 1.5</td>
+    <td>val</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>DDIMScheduler</td>
+    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Dreamlike Photoreal 2.0</td>
+    <td>val</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>DDIMScheduler</td>
+    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">OpenJourney v4</td>
+    <td>val</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="path/to/model_a_image.png" alt="Model A Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>val</td>
+    <td>DDIMScheduler</td>
+    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+  </tr>
+  <tr>
+    <td>DALL-E 3</td>
+    <td>val</td>
+    <td>?</td>
+    <td><img src="path/to/model_d_image.png" alt="Model D Image" width="100"></td>
+  </tr>
+</table>
+
 
 <strong>Prompt №2</strong>:"An underwater world with bioluminescent creatures, where corals emit a soft glow and fish float in the water like birds in the sky. In the depths of the ocean, ancient ruins covered in seaweed and inhabited by giant squids can be found. At the heart of this world lies an underwater volcano, erupting bubbles and glowing particles."
 
