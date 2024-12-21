@@ -29,14 +29,14 @@
     <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (2).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3938</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/Без названия (3).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3757</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/DDIMScheduler/Без названия (1).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 2.1</td>
@@ -45,14 +45,14 @@
     <td><img src="images/prompt_1/Stable Diffusion 2.1/EulerAncestralDiscreteScheduler/загруженное (5).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.4023</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/Без названия (1).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3870</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 1.5</td>
@@ -61,9 +61,9 @@
     <td><img src="images/prompt_1/Stable 1.5/EulerAncestralDiscreteScheduler/загруженное (17).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3924</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable 1.5/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -77,14 +77,14 @@
     <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/EulerAncestralDiscreteScheduler/загруженное (11).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3954</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3816</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/DDIMScheduler/загруженное (3).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">OpenJourney v4</td>
@@ -93,14 +93,14 @@
     <td><img src="images/prompt_1/OpenJourney v4/EulerAncestralDiscreteScheduler/загруженное (13).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.4041</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/OpenJourney v4/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3768</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/OpenJourney v4/DDIMScheduler/загруженное (2).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td>DALL-E 3</td>
