@@ -297,8 +297,8 @@
   </tr>
   <tr>
     <td>DALL-E 3</td>
-    <td>0.3807</td>
+    <td>0.3274</td>
     <td>?</td>
-    <td><img src="images/prompt_1/DALL-E 3/futuristic city_generated_image.png" alt="Model D Image" width="200"></td>
+    <td><img src="images/prompt_3/DALL-E 3/abandoned_amusement_park_image.png" alt="Model D Image" width="200"></td>
   </tr>
 </table>
