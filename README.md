@@ -29,14 +29,14 @@
     <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/загруженное (2).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3938</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/Без названия (3).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3757</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/DDIMScheduler/Без названия (1).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 2.1</td>
@@ -45,14 +45,14 @@
     <td><img src="images/prompt_1/Stable Diffusion 2.1/EulerAncestralDiscreteScheduler/загруженное (5).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.4023</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/Без названия (1).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3870</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable Diffusion 2.1 Base/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">Stable Diffusion 1.5</td>
@@ -61,9 +61,9 @@
     <td><img src="images/prompt_1/Stable 1.5/EulerAncestralDiscreteScheduler/загруженное (17).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3924</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable 1.5/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
     <td>val</td>
@@ -77,14 +77,14 @@
     <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/EulerAncestralDiscreteScheduler/загруженное (11).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3954</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3816</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Dreamlike Photoreal 2.0/DDIMScheduler/загруженное (3).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">OpenJourney v4</td>
@@ -93,14 +93,14 @@
     <td><img src="images/prompt_1/OpenJourney v4/EulerAncestralDiscreteScheduler/загруженное (13).png" alt="Model A Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.4041</td>
     <td>EulerDiscreteScheduler</td>
-    <td><img src="path/to/model_b_image.png" alt="Model B Image" width="100"></td>
+    <td><img src="images/prompt_1/OpenJourney v4/EulerDiscreteScheduler/загруженное (2).png" alt="Model B Image" width="200"></td>
   </tr>
   <tr>
-    <td>val</td>
+    <td>0.3768</td>
     <td>DDIMScheduler</td>
-    <td><img src="path/to/model_c_image.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/OpenJourney v4/DDIMScheduler/загруженное (2).png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td>DALL-E 3</td>
@@ -206,4 +206,99 @@
     <td><img src="images/prompt_2/DALL-E 3/underwater_world_generated_image.png" alt="Model D Image" width="200"></td>
   </tr>
 </table>
+
 <strong>Prompt №3</strong>:"An abandoned amusement park where nature has taken over, and trees wrap around carousels, and flowers grow on roller coasters. The park features old rides covered in moss and vines, as well as deserted kiosks with faded signs. At the center of the park, there is a large lake covered in lilies, where swans and ducks swim."
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Metric (CLIP)</th>
+    <th>Mechanism</th>
+    <th>Best Img</th>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1 Base</td>
+    <td>0.3872</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1 Base/EulerAncestralDiscreteScheduler/Без названия.png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3399</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1 Base/EulerDiscreteScheduler/Без названия (3).png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3559</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1 Base/DDIMScheduler/Без названия (2).png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 2.1</td>
+    <td>0.3500</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1/EulerAncestralDiscreteScheduler/Без названия (3).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3747</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1/EulerDiscreteScheduler/Без названия.png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3308</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_3/Stable Diffusion 2.1/DDIMScheduler/Без названия.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Stable Diffusion 1.5</td>
+    <td>0.3584</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable 1.5/EulerAncestralDiscreteScheduler/загруженное.png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3622</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Stable 1.5/EulerDiscreteScheduler/загруженное (1).png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3350</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_3/Stable 1.5/DDIMScheduler/загруженное.png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">Dreamlike Photoreal 2.0</td>
+    <td>0.3586</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Dreamlike Photoreal 2.0/EulerAncestralDiscreteScheduler/Без названия (1).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3716</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_3/Dreamlike Photoreal 2.0/EulerDiscreteScheduler/Без названия (3).png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3617</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_3/Dreamlike Photoreal 2.0/DDIMScheduler/Без названия (1).png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td rowspan="3">OpenJourney v4</td>
+    <td>0.3436</td>
+    <td>EulerAncestralDiscreteScheduler</td>
+    <td><img src="images/prompt_3/OpenJourney v4/EulerAncestralDiscreteScheduler/загруженное (1).png" alt="Model A Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3771</td>
+    <td>EulerDiscreteScheduler</td>
+    <td><img src="images/prompt_3/OpenJourney v4/EulerDiscreteScheduler/загруженное.png" alt="Model B Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>0.3639</td>
+    <td>DDIMScheduler</td>
+    <td><img src="images/prompt_3/OpenJourney v4/DDIMScheduler/загруженное (1).png" alt="Model C Image" width="200"></td>
+  </tr>
+  <tr>
+    <td>DALL-E 3</td>
+    <td>0.3807</td>
+    <td>?</td>
+    <td><img src="images/prompt_1/DALL-E 3/futuristic city_generated_image.png" alt="Model D Image" width="200"></td>
+  </tr>
+</table>
