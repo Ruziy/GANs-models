@@ -68,7 +68,7 @@
   <tr>
     <td>0.4022</td>
     <td>DDIMScheduler</td>
-    <td><img src="images/prompt_1/Stable 1.5/DDIMScheduler/3.png" alt="Model C Image" width="100"></td>
+    <td><img src="images/prompt_1/Stable 1.5/DDIMScheduler/3.png" alt="Model C Image" width="200"></td>
   </tr>
   <tr>
     <td rowspan="3">Dreamlike Photoreal 2.0</td>
